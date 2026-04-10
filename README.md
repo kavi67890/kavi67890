@@ -24,7 +24,9 @@
 <div align="center">
   
 ![Uploading github-contribution-grid-snake-dark.svg…]()
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavi67890&show_icons=true&theme=dark&hide_border=true" alt="Kavi's Stats" />
+</p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
