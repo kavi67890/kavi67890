@@ -15,8 +15,8 @@
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kavi67890&label=Profile%20views&color=00D9FF&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/kavi67890?style=flat-square&color=7B2FBE)
+![Profile Views](https://komarev.com/ghpvc/?username=Kaviyarasu-M01&label=Profile%20views&color=00D9FF&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Kaviyarasu-M01?style=flat-square&color=7B2FBE)
 
 
 </div>
