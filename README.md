@@ -208,10 +208,10 @@ class Kaviyarasu:
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kaviyarasu-M01
-&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
 
+<div align="center">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kaviyarasu-M01&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
+ 
 </div>
 
 ---
