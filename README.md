@@ -22,6 +22,14 @@
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+  
+ <!--[GitHub Snake Light](https://github.com/Kaviyarasu-M10/Kaviyarasu-M10/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+<!--[GitHub Snake Dark](https://github.com/Kaviyarasu-M10/Kaviyarasu-M10/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
