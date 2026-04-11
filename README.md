@@ -3,13 +3,13 @@
 <!-- Dynamic Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kaviyarasu+M+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Finance+%26+Biochemistry+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
-<a href="https://kavi67890.github.io/Kaviyarasu-M-portfolio/">
+<a href="https://Kaviyarasu-M01.github.io/Kaviyarasu-M-portfolio/">
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=280&section=header&text=Kaviyarasu%20M&fontSize=80&fontAlignY=35&animation=twinkling&desc=Data%20scientist%20%&descAlignY=55&descSize=50" width="100%">    
 </a>
 
 
 <p>
-  <a href="https://kavi67890.github.io/Kaviyarasu-M-portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
+  <a href="https://Kaviyarasu-M01.github.io/Kaviyarasu-M-portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
   <a href="mailto:kaviyarasu1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kaviyarasu-m01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
@@ -38,7 +38,7 @@ class Kaviyarasu:
         self.domains     = ["Machine Learning", "Finance Analytics", "Biochemistry Informatics"]
         self.languages   = ["Python", "SQL", ]
         self.interests   = ["Quantitative Finance", "Drug Discovery ML", "NLP", "Time Series"]
-        self.portfolio   = "https://kavi67890.github.io/Kaviyarasu-M-portfolio/"
+        self.portfolio   = "https://Kaviyarasu-M01.github.io/Kaviyarasu-M-portfolio/"
         self.currently   = "Building ML models at the intersection of Finance & Life Sciences"
 
     def life_philosophy(self):
@@ -162,7 +162,7 @@ class Kaviyarasu:
 
 **Stack:** `Python` `LSTM` `Backtrader` `yFinance` `Streamlit`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavi67890&repo=QuantSense&theme=tokyonight&border_color=00D9FF)](https://github.com/kavi67890)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaviyarasu-M01&repo=QuantSense&theme=tokyonight&border_color=00D9FF)](https://github.com/Kaviyarasu-M01)
 
 </td>
 <td width="50%">
@@ -172,7 +172,7 @@ class Kaviyarasu:
 
 **Stack:** `PyTorch Geometric` `RDKit` `DeepChem` `FastAPI`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavi67890&repo=BioML&theme=tokyonight&border_color=7B2FBE)](https://github.com/kavi67890)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaviyarasu-M01&repo=BioML&theme=tokyonight&border_color=7B2FBE)](https://github.com/Kaviyarasu-M01)
 
 
 </td>
@@ -186,7 +186,7 @@ class Kaviyarasu:
 **Stack:** `XGBoost` `SHAP` `Optuna` `MLflow` `Docker`
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavi67890&repo=CreditRisk-ML&theme=tokyonight&border_color=00D9FF)](https://github.com/kavi67890)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaviyarasu-M01&repo=CreditRisk-ML&theme=tokyonight&border_color=00D9FF)](https://github.com/Kaviyarasu-M01)
 
 </td>
 <td width="50%">
@@ -197,19 +197,19 @@ class Kaviyarasu:
 **Stack:** `Hugging Face` `ESM-2` `Biopython` `Streamlit`
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavi67890&repo=ProteinLM&theme=tokyonight&border_color=7B2FBE)](https://github.com/kavi67890)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaviyarasu-M01&repo=ProteinLM&theme=tokyonight&border_color=7B2FBE)](https://github.com/Kaviyarasu-M01)
 
 </td>
 </tr>
 </table>
 
-> 🔗 **Explore all projects →** [kavi67890.github.io/Kaviyarasu-M-portfolio](https://kavi67890.github.io/Kaviyarasu-M-portfolio/)
+> 🔗 **Explore all projects →** [Kaviyarasu-M01.github.io/Kaviyarasu-M-portfolio](https://Kaviyarasu-M01.github.io/Kaviyarasu-M-portfolio/)
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kavi67890
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kaviyarasu-M01
 &theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
 
 </div>
@@ -218,7 +218,7 @@ class Kaviyarasu:
 
 ## 📈 Contribution Graph
 
-![Kaviyarasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavi67890&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=7B2FBE&point=FFFFFF&area=true&hide_border=false)
+![Kaviyarasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaviyarasu-M01&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=7B2FBE&point=FFFFFF&area=true&hide_border=false)
 
 
 
@@ -252,7 +252,7 @@ class Kaviyarasu:
 >
 > — Open to collaborations, research partnerships, and consulting. Let's build something meaningful.
 
-<a href="https://kavi67890.github.io/Kaviyarasu-M-portfolio/">
+<a href="https://Kaviyarasu-M01.github.io/Kaviyarasu-M-portfolio/">
   <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-00D9FF?style=for-the-badge"/>
 </a>
 <a href="mailto:kaviyarasu1204@gmail.com">
