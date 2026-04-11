@@ -18,23 +18,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kavi67890&label=Profile%20views&color=00D9FF&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/kavi67890?style=flat-square&color=7B2FBE)
 
+
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-  
-![Uploading github-contribution-grid-snake-dark.svg…]()
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavi67890&show_icons=true&theme=dark&hide_border=true" alt="Kavi's Stats" />
-</p>
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
+<!--
 ## 🧬 About Me
 
-```python
+```
+python
 class Kaviyarasu:
     def __init__(self):
         self.name        = "Kaviyarasu M"
@@ -49,7 +44,7 @@ class Kaviyarasu:
     def life_philosophy(self):
         return "Data is the new microscope — it reveals what the naked eye misses."
 ```
-
+-->
 ---
 
 ## 🔬 Domain Expertise
@@ -96,7 +91,8 @@ class Kaviyarasu:
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -115,6 +111,8 @@ class Kaviyarasu:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Finance Stack
 ![QuantLib](https://img.shields.io/badge/QuantLib-005C99?style=for-the-badge&logo=python&logoColor=white)
@@ -133,6 +131,23 @@ class Kaviyarasu:
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 📊 Data & Caching
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Data Integration](https://img.shields.io/badge/Data_Integration-00758F?style=for-the-badge&logo=databricks&logoColor=white)
+
+
+### 🤖 AI & Modern Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![AI Assisted Coding](https://img.shields.io/badge/AI_Assisted_Coding-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
+### 💼 Professional Skills
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-FF4088?style=for-the-badge&logo=atom&logoColor=white)
 
 ---
 
@@ -157,9 +172,8 @@ class Kaviyarasu:
 
 **Stack:** `PyTorch Geometric` `RDKit` `DeepChem` `FastAPI`
 
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavi67890&repo=BioML&theme=tokyonight&border_color=7B2FBE)](https://github.com/kavi67890)
+
 
 </td>
 </tr>
@@ -194,17 +208,9 @@ class Kaviyarasu:
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavi67890&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavi67890&layout=compact&langs_count=8&theme=tokyonight&border_color=7B2FBE"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kavi67890&theme=tokyonight&border=00D9FF&ring=7B2FBE&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kavi67890
+&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
 
 </div>
 
@@ -212,7 +218,7 @@ class Kaviyarasu:
 
 ## 📈 Contribution Graph
 
-[![Kaviyarasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavi67890&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=7B2FBE&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Kaviyarasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavi67890&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=7B2FBE&point=FFFFFF&area=true&hide_border=false)
 
 
 
